@@ -6,7 +6,7 @@
 
 👩🏻‍🎓 Mestre em Engenharia Mecânica pelo **Instituto Militar de Engenharia (IME)**
 
-👨‍🔧 Engenheiro Mecânico de Projetos na **MWF Mechatronics**
+👨‍🔧 Engenheiro Mecânico de Desenvolvimento de Componentes de Sistemas de Transmissão na **IAV do Brasil**
 
 💡 Experiência em **Pesquisa & Desenvolvimento de Veículos, Projetos de Máquinas e Prototipagem**  
 
