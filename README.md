@@ -56,14 +56,30 @@
 📌 Simulação utilizando **FreeCAD FEM Workbench** para análise de tensão em dentes de engrenagens.  
 
 🔗 **Referências:**  
-- 📺 [Tutorial em Português](https://www.youtube.com/watch?v=-nnL4gDxvEw)  
-- 📺 [Tutorial em Inglês](https://www.youtube.com/watch?v=gk6Dl_JopiA)  
+- 📺 [Tutorial em Português](https://www.youtube.com/watch?v=-nnL4gDxvEw)
+- 📺 [Tutorial em Inglês](https://www.youtube.com/watch?v=gk6Dl_JopiA)
 
 ---
+### 🔹 [Publications](https://github.com/Tobias-Degli/)
+
+🔗 **Referências:**  
+- [Feasibility Study of Small-Scale Energy Generation in the Coffee-Agriculture Sector](https://repositorio.utfpr.edu.br/jspui/bitstream/1/26134/1/GP_COEME_2021_1_04.pdf)
+- [PARAMETER_ESTIMATION_OF_A_SINGLE_STAGE_GEARBOX_USING_THE_LEVENBERG-MARQUARDT_METHOD](https://www.researchgate.net/publication/377110366_PARAMETER_ESTIMATION_OF_A_SINGLE_STAGE_GEARBOX_USING_THE_LEVENBERG-MARQUARDT_METHOD)
+- [Analysis, Simulation, and Validation of a Gear Reduction System Model Applied to Military Vehicle Transmissions](https://www.ime.eb.mil.br/images/arquivos/2024_Dissertao_Tobias_Jos_Degli_Esposte_Rosa.pdf)
+- [Dynamic Analysis of an Aluminum Spur Gear pair](https://publicacoes.softaliza.com.br/cilamce2022/article/download/5420/4486)
+- [Parameter estimation of a single stage gearbox using the Levenberg-Marquardt method](https://www.researchgate.net/publication/377110366_PARAMETER_ESTIMATION_OF_A_SINGLE_STAGE_GEARBOX_USING_THE_LEVENBERG-MARQUARDT_METHOD)
+- [Limited Slip Predictive Traction Control System for Light Vehicles](https://www.sae.org/papers/limited-slip-predictive-traction-control-system-light-vehicles-2025-36-0003)
+- [APC Military Vehicle - Lateral Dynamics Case Study](https://www.researchgate.net/publication/378424951_APC_Military_Vehicle_-_Lateral_Dynamics_Case_Study)
 
 ### 🔹 [Modelo 3D de Trator Elétrico](https://mwf-technologies.com/)  
 📌 Design e prototipagem de um **trator elétrico**, apresentado na **Agrishow 2024**.  
 
+
+
+Parameter estimation of a single stage gearbox using the Levenberg-Marquardt method
+Dynamic Analysis of an Aluminum Spur Gear pair
+APC Military Vehicle - Lateral Dynamics Case Study
+Limited Slip Predictive Traction Control System for Light Vehicles
 ---
 
 ## 🌐 Conecte-se Comigo  
